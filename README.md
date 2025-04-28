@@ -94,19 +94,19 @@ Unit Tests: Ensure code reliability with unittest 🧪
 ## 🎓 My Learning Journey
 This project was built over 7 days, covering:
 
-**Day 1:** Variables, data types, conditionals 🍎
+**Day 1:** Variables, data types, conditionals 🍎 // recipe_printer.py, recipe_checker.py
 
-**Day 2:** Lists, loops, functions 🥚
+**Day 2:** Lists, loops, functions 🥚 //pantry_manager.py, recipe_cost.py
 
-**Day 3:** Dictionaries, strings, error handling 🥄
+**Day 3:** Dictionaries, strings, error handling 🥄 //recipe_book.py, recipe_notes.py, safe_input.py
 
-**Day 4:** Sets, tuples, file I/O 📋
+**Day 4:** Sets, tuples, file I/O 📋 // pantry_recipe.py, recipe_storage.py
 
-**Day 5:** Modules, libraries, OOP 🧀
+**Day 5:** Modules, libraries, OOP 🧀 // kitchen_utils.py, main.py, recipe_class.py
 
-**Day 6:** List comprehensions, lambda functions, regex 🔍
+**Day 6:** List comprehensions, lambda functions, regex 🔍 // quick_pantry.py, recipe_search.py
 
-**Day 7:** Recursion, decorators, stacks, queues, capstone 🌟
+**Day 7:** Recursion, decorators, stacks, queues, capstone 🌟 // recipe_tools.py, kitchen_tasks.py, recipe_manager.py
 
 Each file is a recipe in itself, crafted to demonstrate a specific Python concept while building a cohesive app. 📚
 
