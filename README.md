@@ -76,7 +76,7 @@ Here’s a taste of what’s in the RecipeBook kitchen:
         
         15. recipe_tools.py             Enhances recipes with advanced techniques 🎨    Recursion, decorators
         
-        16. kitchen_tasks.py            Manages cooking tasks like a pro 📋              Stacks, queues                                                                                                                                 (collections.deque)
+        16. kitchen_tasks.py            Manages cooking tasks like a pro 📋              Stacks, queues (collections.deque)
         
         17. recipe_manager.py           Capstone project tying it all together 🌟        OOP, file I/O, regex, decorators
 
